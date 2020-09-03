@@ -1,0 +1,9 @@
+.news-tile .card-title {
+    position: absolute;
+    bottom: 15px;
+    left: 40px;
+}
+
+.rgba-stylish-strong {
+    background-color: rgba(62, 69, 81, .5);
+}
